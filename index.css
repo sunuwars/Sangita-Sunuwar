@@ -2,3 +2,27 @@
 align:centre;
 color:red;
 }
+
+body{
+	width:80%;
+	margin:auto;
+	border:1px solid green;
+}
+
+.heading {
+	width:100%;
+	border:1px solid yellow;
+		
+}
+.top-image {
+	width:100%;
+	border:1px solid red;	
+}
+.top-image-wrapper{
+	width:60%;
+	margin:auto;
+	border:1px dashed pink;
+}
+.wrapper {
+	border:1px solid purple;	
+}
